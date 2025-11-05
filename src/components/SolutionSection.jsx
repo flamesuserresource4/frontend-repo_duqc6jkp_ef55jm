@@ -35,7 +35,7 @@ export default function SolutionSection() {
             icon={<Mic className="h-5 w-5" />}
             title="Context-Aware Voice"
             feature="An AI assistant that understands your work."
-            benefit={"Ask, 'What's my priority?' and get answers from your own tasks and calendar. Say, 'Add \\"Finish report\\" to Project X,' and it updates your Notion."}
+            benefit="Ask, “What’s my priority?” and get answers from your own tasks and calendar. Say, “Add ‘Finish report’ to Project X,” and it updates your Notion."
           />
         </div>
 
